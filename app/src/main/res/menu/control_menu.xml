@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/id_connect"
+        android:icon="@drawable/ic_connect"
+        android:orderInCategory="100"
+        android:title="Connect"
+        app:showAsAction="ifRoom">
+
+    </item>
+
+    <item
+        android:id="@+id/id_list"
+        android:icon="@drawable/ic_list"
+        android:orderInCategory="100"
+        android:title="BtList"
+        app:showAsAction="ifRoom">
+
+    </item>
+</menu>
